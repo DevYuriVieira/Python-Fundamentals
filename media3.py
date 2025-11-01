@@ -7,8 +7,8 @@ media_final = (nota1 + nota2 + nota3) / 3
 if media_final>=7:
     print("Aprovado")
 elif media_final>=5:
-    print("Em recuperação vacilão")
+    print("Em recuperação")
 else:
-    print("Reprovado Lazarento")
+    print("Reprovado")
 
 
