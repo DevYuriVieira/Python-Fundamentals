@@ -1,0 +1,7 @@
+CorrelationId: 481bae01-3bdc-4dcb-9f6a-4c57b457977a
+UTC DateTime: 12/19/2025 02:46:05
+
+The following files/folders have not been downloaded
+0. Bagun?a/Documentos/Documento pessoal.txt
+1. Bagun?a/Documentos/Novo(a) Documento de Texto.txt
+2. Bagun?a/Documentos/Senhas.txt
